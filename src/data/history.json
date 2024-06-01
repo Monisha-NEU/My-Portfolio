@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Associate Software Engineer",
+    "organisation": "Ernst & Young",
+    "startDate": "Oct, 2021",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked on building CI/CD pipelines by using Microsoft Azure tools", "Increased efficiency by 80%"],
+    "imageSrc": "history/EY.jpg"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
