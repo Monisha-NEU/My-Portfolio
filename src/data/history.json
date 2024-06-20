@@ -8,11 +8,11 @@
     "imageSrc": "history/EY.jpg"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Embedded Design Intern",
+    "organisation": "Onchip Technologies",
+    "startDate": "March, 2021",
+    "endDate": "April, 2021",
+    "experiences": ["Worked on designing a digital voice recorder"],
+    "imageSrc": "history/onchip.png"
   }
 ]

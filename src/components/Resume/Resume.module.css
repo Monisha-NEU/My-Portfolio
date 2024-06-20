@@ -1,0 +1,43 @@
+@import "../../vars.css";
+
+
+
+
+.container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 49px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--color-text);
+    z-index: 1;
+  }
+
+  .title {
+    font-size: 35px;
+    font-weight: 700;
+    letter-spacing: 1.75px;
+    text-transform: uppercase;
+  }
+
+.description {
+    font-size: 25px; /* Sets the font size */
+    font-family: var(--font-roboto); /* Sets the font family */
+    margin-bottom: 52px; /* Adds space below the element */
+    
+    width: 100%; /* Makes the element take full width */
+    max-width: 600px; /* Limits the maximum width of the element */
+    padding: 20px; /* Adds padding inside the element */
+    margin: 0 auto; /* Centers the element horizontally */
+    text-align: left; /* Aligns the text within the element */
+    color: var(--color-text); /* Sets the font color using the variable */
+  }

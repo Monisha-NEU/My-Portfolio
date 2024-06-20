@@ -1,9 +1,9 @@
 [
   {
-    "title": "Project A",
+    "title": "Trouvaille - Travel Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a Travel Website made easy for customers to explore various places across the world.",
+    "skills": ["React", "Express", "Node", "MongoDB", "HTML", "CSS", "JavaScript"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },

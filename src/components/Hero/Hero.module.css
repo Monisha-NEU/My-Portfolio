@@ -33,11 +33,29 @@
   -webkit-background-clip: text;
 }
 
-.description {
-  font-size: 25px;
-  font-family: var(--font-roboto);
-  margin-bottom: 52px;
+/* Define CSS variables in the :root selector */
+:root {
+  --background-color: #f0f0f0; /* Replace with your specific background color */
+  --font-color: #333333; /* Replace with your specific font color */
 }
+
+
+.description {
+  font-size: 25px; /* Sets the font size */
+  font-family: var(--font-roboto); /* Sets the font family */
+  margin-bottom: 52px; /* Adds space below the element */
+  
+  width: 100%; /* Makes the element take full width */
+  max-width: 600px; /* Limits the maximum width of the element */
+  padding: 20px; /* Adds padding inside the element */
+  margin: 0 auto; /* Centers the element horizontally */
+  text-align: left; /* Aligns the text within the element */
+  color: var(--color-text); /* Sets the font color using the variable */
+}
+
+
+
+
 
 .contactBtn {
   text-decoration: none;
