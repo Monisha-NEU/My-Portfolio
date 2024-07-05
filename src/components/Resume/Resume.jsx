@@ -9,14 +9,12 @@ export const Resume = () => {
         <div className={styles.content}>
           <h1 className={styles.title}>RESUME</h1>
           <p className={styles.description}>
-            I'm currently a Master's Student at Northeastern University, majoring in Computer Software Engineering. Click on my resume to view!
+            I'm currently a Master's Student at Northeastern University, majoring in Computer Software Engineering. Click on my resume to learn more about me!
           </p>
         </div>
-        <img
-          src={getImageUrl("hero/.png")}
-          alt="My Resume"
-          className={styles.heroImg}
-        />
+        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
+          <img src="/resume.png" alt="Resume" className={styles.resumeImg} />
+        </a>
         <div className={styles.topBlur} />
         <div className={styles.bottomBlur} />
       </section>

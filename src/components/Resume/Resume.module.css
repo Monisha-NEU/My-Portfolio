@@ -1,8 +1,5 @@
 @import "../../vars.css";
 
-
-
-
 .container {
     position: relative;
     display: flex;
@@ -40,4 +37,10 @@
     margin: 0 auto; /* Centers the element horizontally */
     text-align: left; /* Aligns the text within the element */
     color: var(--color-text); /* Sets the font color using the variable */
+  }
+
+  .resumeImg {
+    width: 50%;
+    margin-left: 80px;
+    margin-top: 50px;
   }

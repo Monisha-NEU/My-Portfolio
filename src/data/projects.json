@@ -12,14 +12,22 @@
     "imageSrc": "projects/project.png",
     "description": "This is a Face Recognition System built by using Deep Learning Libraries.",
     "skills": ["Python", "OpenCV", "Keras", "CNN", "Deep Learning"],
-    "demo": "https://www.example.com",
+    "demo": "https://github.com/Monisha-NEU/Face-Recognition-",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Airhub: Flight Booking System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a comprehensive database management system for an airplane conveyance management system",
+    "skills": ["SQL", "Python", "Flask", "Tableau"],
+    "demo": "https://github.com/Monisha-NEU/Airhub",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Tennis Analysis System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Tennis analysis system which detects the player and ball precisely.",
+    "skills": ["PyTorch", "CNN", "Computer vision", "YOLO"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   }
