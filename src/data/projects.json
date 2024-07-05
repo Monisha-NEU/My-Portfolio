@@ -4,14 +4,14 @@
     "imageSrc": "projects/project.png",
     "description": "This is a Travel Website made easy for customers to explore various places across the world.",
     "skills": ["React", "Express", "Node", "MongoDB", "HTML", "CSS", "JavaScript"],
-    "demo": "https://www.example.com",
+    "demo": "https://trouvaille-beige.vercel.app/home",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Face Recognition System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This is a Face Recognition System built by using Deep Learning Libraries.",
+    "skills": ["Python", "OpenCV", "Keras", "CNN", "Deep Learning"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
